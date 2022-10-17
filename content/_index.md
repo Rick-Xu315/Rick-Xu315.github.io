@@ -2,8 +2,20 @@
 title: Home
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="450">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+I was born on Mars in 2001. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+## Short Bio
+
+I am Ruize Xu, a senior undergraduate at Renmin University of China. I am expected to receive my bachelor's degree in Data Science and Big Data Technology at school of statistics. Now I work at [GeWu lab](https://gewu-lab.github.io/) with Professor [Di Hu](https://dtaoo.github.io/). He is a thoughtful and talented young researcher who leads me to the gate of ai research. Great admiration! 
+
+## Research Interest
+
+I am interested in computer vision and multi-modal machine learning. My research direction can be generalized as:
+- Explainable multi-modal learning with cross-modal interaction and semantic guidance.
+- Balanced, fair, robust and efficient multi-modal learning.
+
+## Contact
+
+- E-mail: xrz0315@ruc.edu.cn
