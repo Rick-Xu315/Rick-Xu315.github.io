@@ -13,13 +13,4 @@ $$ P(Y=y|do(X=x))=\sum_iP(Y=y|X=x,W=w)P(W=w) $$
 首先，$X$对$Z$的因果效应是可以识别的，即 $$ P(Z=z|do(X=x))=P(Z=z|X=x)\ (1) $$ 其次，$Z$对$Y$的因果效应也是能够识别的，因为从$Z$到$Y$的后门路径$Z\leftarrow X \leftarrow U \rightarrow Y$，通过以$X$为条件阻断，有 $$ P(Y=y|do(Z=z))=\sum_iP(Y=y|Z=z,X=x)P(X=x) \ (2) $$ 现在将这两部分连接起来以获得$X$对$Y$的整体因果效应。如果固定$Z$，那么$Y$的概率为$P(Y=y|do(Z=z))$。但考虑将$X$设定为$x$，那么固定$Z$值为$z$的概率为$P(Z=z|do(X=x))$。对$Z$的所有取值求和可以得到 $$ P(Y=y|do(X=x))=\sum_iP(Y=y|do(Z=z))P(Z=z|do(X=x)) $$ 则右边部分可以由之前的两式评估，为便于区分，将式(2)中出现的仅用于求和的索引的$x$记作$x^{'}$，得到的最终表达式为 $$ P(Y=y|do(X=x))=\sum_z\sum_{x^{'}}P(Y=y|Z=z,X=x^{'})P(X=x^{'})P(Z=z|X=x) $$ 即为**前门公式**。推广到有多条从$X$到$Y$的路径的图结构，给出前门准则的定义。</description></item><item><title>Markdown 试水</title><link>https://Rick-Xu315.github.io/cn/2021/01/07/first-post-cn/</link><pubDate>Thu, 07 Jan 2021 13:42:27 -0500</pubDate><guid>https://Rick-Xu315.github.io/cn/2021/01/07/first-post-cn/</guid><description>如果好奇以下的内容是如何实现的，请参考本页源代码 。
 第一级标题 第二级标题 第三级标题 第四级标题 第五级标题 第六级标题 列表 Water Water Water Water Water Water Water Water Water Water Water Water 表格 Water Water Water Water Water Water Water Water1 Water Water Water Water 引语 知之为知之，不知为不知，是知也2。 — 孔子
 数学公式 最简单的如，$1 + 1 = 3$</description></item><item><title>Markdown Testing</title><link>https://Rick-Xu315.github.io/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://Rick-Xu315.github.io/en/2021/01/07/second-post/</guid><description>See the source code of this page if you are interested.
-H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2.</description></item><item><title>The Road Not Taken</title><link>https://Rick-Xu315.github.io/en/1915/01/01/road-not-taken/</link><pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate><guid>https://Rick-Xu315.github.io/en/1915/01/01/road-not-taken/</guid><description>Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
-Then took the other, as just as fair,
-And having perhaps the better claim,
-Because it was grassy and wanted wear;
-Though as for that the passing there
-Had worn them really about the same,</description></item></channel></rss>
+H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2.</description></item></channel></rss>
