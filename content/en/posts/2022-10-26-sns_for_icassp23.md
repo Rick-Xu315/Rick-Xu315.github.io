@@ -45,7 +45,7 @@ plt.savefig("teaser.pdf",bbox_inches = 'tight' )
 ```
 
 
-![png](https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_4_0.png)
+{{<figure src="https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_4_0.png">}}
 
 
 
@@ -96,7 +96,7 @@ fig.savefig("teaser3.pdf",dpi=500,bbox_extra_artists=[l],bbox_inches="tight") #,
 ```
 
 
-![png](https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_6_0.png)
+{{<figure src="https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_6_0.png">}}
 
 
 ## Distplot
@@ -162,7 +162,7 @@ fig.savefig("theta.pdf",dpi=500,bbox_inches="tight")
 ```
 
 
-![png](https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_12_0.png)
+{{<figure src="https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_12_0.png">}}
 
 
 ## Performance lineplot
@@ -222,7 +222,7 @@ fig.savefig("performance.pdf",dpi=500,bbox_inches="tight")
 ```
 
 
-![png](https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_15_0.png)
+{{<figure src="https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_15_0.png">}}
 
 
 # Weight norm heatmap
@@ -293,10 +293,6 @@ fig.savefig("weight_norm.pdf",dpi=500,bbox_inches="tight")
 ```
 
 
-![png](https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_18_0.png)
+{{<figure src="https://github.com/Rick-Xu315/Rick-Xu315.github.io/tree/master/content/en/posts/output_18_0.png">}}
 
 
-
-```python
-
-```
