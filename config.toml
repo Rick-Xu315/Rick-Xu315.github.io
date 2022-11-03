@@ -16,7 +16,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/"
     weight = 1
 [[menu.en]]
-    name = "About"
+    name = "CV"
     url = "/en/about/"
     weight = 2
 [[menu.en]]
@@ -28,17 +28,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/cn/posts/"
     weight = 4
 [[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 1
-[[menu.cn]]
     name = "日志"
     url = "/cn/posts/"
-    weight = 2
+    weight = 1
 [[menu.cn]]
     name = "English"
     url = "/"
-    weight = 3
+    weight = 2
 
 [params]
     description = "Peronal website of Your Name"
@@ -49,7 +45,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    favicon = "https://rick-xu315.github.io/logo.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/Rick-Xu315/Rick-Xu315.github.io/edit/master/content/"
     copyright = "&copy;"
@@ -61,7 +57,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "https://rick-xu315.github.io/logo.png" # you can change it
   width = 50.0
   height = 50.0
   alt = "Hugo-ht"
