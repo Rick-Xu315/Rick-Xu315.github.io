@@ -2,27 +2,26 @@
 title: Home
 ---
 
-{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="450">}}
+{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="300">}}
 
-I was born on Mars in 2001. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
 
-## Short Bio
+## <p align="left">Short Bio</p>
 
-I am Ruize Xu, a senior undergraduate at Renmin University of China. I will receive my bachelor's degree in Data Science and Big Data Technology at school of statistics in 2023 fall. Now I work at [GeWu lab](https://gewu-lab.github.io/) with Professor [Di Hu](https://dtaoo.github.io/). He is a thoughtful and talented young researcher who leads me to the gate of ai research. Great admiration! 
+I am Ruize Xu, a senior undergraduate at Renmin University of China. I will receive my bachelor's degree in Data Science and Big Data Technology at school of statistics in 2023 fall.  I spent wonderful months in UC, Davis as a visiting student. I was also fortunate to work with [Wang Xin](https://eric-xw.github.io/) at UC, Santa Cruz. Now I work at [GeWu lab](https://gewu-lab.github.io/) with Professor [Di Hu](https://dtaoo.github.io/). He is a thoughtful and talented young researcher who leads me to the gate of AI research. Great admiration! 
 
-## Research Interest
+<p align="left">## Research Interest</p>
 
 I am interested in computer vision and multi-modal machine learning. My research direction can be generalized as:
 - Explainable multi-modal learning with cross-modal interaction and semantic guidance.
 - Balanced, fair, robust and efficient multi-modal learning.
 
-## Publication
+<p align="left">## Publication<\p>
 
-### Preprint
+<p align="left">### Preprint<\p>
 
-- **R. Xu**, R. Feng, and D. Hu, ‘MMCOSINE: MULTI-MODAL COSINE LOSS TOWARDS BALANCED AUDIO-VISUAL FINE-GRAINED LEARNING’.
+- **Ruize Xu**, Ruoxuan Feng, Shi-xiong Zhang and D. Hu, ‘MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning’, 2022, under review.[paper](https://rick-xu315.github.io/MMCosine.pdf)
+- Kenan Jiang, Xuehai He, **Ruize Xu** and Xin Wang, ‘RelationCLIP: Training-Free Fine-Grained Visual and Language Concept Matching’, 2022, under review.
 
-
-## Contact
+<p align="left">## Contact</p>
 
 - E-mail: xrz0315@ruc.edu.cn
