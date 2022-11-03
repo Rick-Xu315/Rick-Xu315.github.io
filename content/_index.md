@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="300">}}
+{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="250">}}
 
 
 ## <p align="left">Short Bio</p>
@@ -12,12 +12,13 @@ I am Ruize Xu, a senior undergraduate at [Renmin University of China](https://ww
 ## <p align="left">Research Interest</p>
 
 I am interested in computer vision and multi-modal machine learning. My research direction can be generalized as:
-- Explainable multi-modal learning with cross-modal interaction and semantic guidance.
-- Balanced, fair, robust and efficient multi-modal learning.
+- Explainable multi-modal learning with cross-modal interaction and semantic guidance. 
+- Balanced, fair, robust and efficient multi-modal learning. 
+- Causality in NLP and Computer Vision.
 
-## <p align="left">Publication<\p>
+## <p align="left">Publication</p>
 
-### <p align="left">Preprint<\p>
+### <p align="left">Preprint</p>
 
 - **Ruize Xu**, Ruoxuan Feng, Shi-xiong Zhang and D. Hu, ‘MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning’, 2022, under review.[[paper]](https://rick-xu315.github.io/MMCosine.pdf)
 - Kenan Jiang, Xuehai He, **Ruize Xu** and Xin Wang, ‘RelationCLIP: Training-Free Fine-Grained Visual and Language Concept Matching’, 2022, under review.
