@@ -12,8 +12,8 @@ I am Ruize Xu, a senior undergraduate at [Renmin University of China](https://ww
 ## <p align="left">Research Interest</p>
 
 I am interested in computer vision and multi-modal machine learning. My research direction can be generalized as:
-- Explainable multi-modal perception with cross-modal interaction and semantic guidance. 
-- Balanced, fair, robust and efficient multi-modal learning. 
+- Explainable multi-modal perception with cross-modal interaction. Language-guided multimodal learning. 
+- Balanced, fair, robust and efficient machine learning. 
 - Causal inference in NLP and Computer Vision.
 
 ## <p align="left">Publication</p>
