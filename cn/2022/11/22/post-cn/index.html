@@ -16,7 +16,7 @@ $$</p><p>$$
 P_m(Z=z)=P(Z=z)
 $$</p><p>因<code>$Z$</code>和<code>$X$</code>在修改后的模型中d-分离，因此在干预分布中是独立的，即<code>$P(Z=z|X=x)=P_m(Z=z)=P(Z=z)$</code>。综上，由全概率公式可以得到：
 $$
-P(Y=Y|do(X=x))=P_m(Y=y|X=x)(由定义)=\sum_zP_m(Y=y|X=x,Z=z)P_m(Z=z|X=x)=\sum_zP_m(Y=y|X=x,Z=z)P_m(Z=z)(本例Z和X独立)
+P(Y=Y|do(X=x))=P_m(Y=y|X=x)(由定义)=\sum_zP_m(Y=y|X=x,Z=z)P_m(Z=z|X=x)=\sum_zP_m(Y=y|X=x,Z=z)P_m(Z=z)\(本例Z和X独立)
 $$
 即以<code>$Z=z$</code> 的所有值为条件求条件概率后求和 。利用不变性关系，得到一个以干预前概率表示的因果效应公式：
 $$
