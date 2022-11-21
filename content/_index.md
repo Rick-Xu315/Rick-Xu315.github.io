@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)&#10; "Aim high and keep humble" " width="250">}}
+{{<figure src="./my_photo.png" title="This is Ruize Xu(徐瑞泽)" width="250">}}
 
 
 ## <p align="left">Short Bio</p>
