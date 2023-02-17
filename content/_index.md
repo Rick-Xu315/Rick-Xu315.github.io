@@ -20,9 +20,8 @@ I am interested in computer vision and multi-modal machine learning. My research
 
 ## <p align="left">Publication</p>
 
-### <p align="left">Preprint</p>
+- **Ruize Xu**, Ruoxuan Feng, Shi-xiong Zhang and Di Hu, ‘MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning’, ICASSP' 2023. [[paper]](https://rick-xu315.github.io/MMCosine.pdf)
 
-- **Ruize Xu**, Ruoxuan Feng, Shi-xiong Zhang and Di Hu, ‘MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning’, 2022, under review. [[paper]](https://rick-xu315.github.io/MMCosine.pdf)
 - Kenan Jiang, Xuehai He, **Ruize Xu** and Xin Wang, ‘ComCLIP: Training-Free Compositional Image and Text Matching’, 2022, under review. [[paper]](https://arxiv.org/pdf/2211.13854.pdf)
 
 ## <p align="left">Contact</p>
