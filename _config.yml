@@ -58,22 +58,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ruize Xu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "MSCS@Columbia University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://rick-xu315.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/RuizeXu8"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Rick-Xu315"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-plus-official"
+      url: "https://scholar.google.com/citations?user=16leOaEAAAAJ&hl=en"
 
 footer:
   links:
@@ -82,10 +82,8 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://rick-xu315.github.io/"
+   
 
 defaults:
   # _posts
