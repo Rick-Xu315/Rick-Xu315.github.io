@@ -11,5 +11,5 @@ My research interests are Interpretability and Robustness of Large (Language and
 ## Publications
 
 
-<script src="https://bibbase.org/show?bib=https://github.com/Rick-Xu315/Rick-Xu315.github.io/assets/pub.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://rick-xu315.github.io/assets/pub.bib&jsonp=1"></script>
 
