@@ -2,7 +2,14 @@
 permalink: /about/
 title: "About"
 ---
+## About me
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Ruize Xu. I received my bachelor's degree in Data Science at Renmin University of China, School of Statistics. I am now a thesis-track MS in Computer Science student at Columbia University, advised by Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Yu Zhou](https://www.cs.columbia.edu/~zhouyu/). I was furtunate to work with Prof. [Di Hu](https://dtaoo.github.io/) at RUC and Prof. [Xin Eric Wang](https://eric-xw.github.io/) at UCSB. I interned at Baidu on 3D vision and Alibaba on Large Vision-Language models, advised by Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en). 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research interests are Interpretability and Robustness of Large (Language and Multi-modal) Models. I am actively looking for Ph.D positions in 2025 Fall!
+
+## Publications
+
+
+<script src="https://bibbase.org/show?bib=https://github.com/Rick-Xu315/Rick-Xu315.github.io/assets/pub.bib&jsonp=1"></script>
+
