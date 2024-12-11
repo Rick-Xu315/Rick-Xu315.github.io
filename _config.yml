@@ -59,8 +59,8 @@ author:
   name   : "Ruize Xu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
-          "MSCS@Columbia University"
-          "Email: rx2246 [at] columbia [dot] edu"
+          MSCS@Columbia University
+          Email: rx2246 [at] columbia [dot] edu
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,7 +75,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=16leOaEAAAAJ&hl=en"
     - label: "CV"
-      icon: "fa fa-fw fa-address-book-o"
+      icon: "fa-solid fa-user"
       url: "https://rick-xu315.github.io/assets/CV.pdf"
 
 footer:
