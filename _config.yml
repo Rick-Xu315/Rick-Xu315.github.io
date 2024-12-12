@@ -58,9 +58,8 @@ plugins:
 author:
   name   : "Ruize Xu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : |
-          MSCS@Columbia University
-          Email: rx2246 [at] columbia [dot] edu
+  bio    : 
+          "MSCS@Columbia University\nEmail: rx2246 [at] columbia [dot] edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
