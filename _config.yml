@@ -59,7 +59,8 @@ author:
   name   : "Ruize Xu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : 
-          "MSCS@Columbia University\nEmail: rx2246 [at] columbia [dot] edu"
+          "MSCS@Columbia University\n\
+          Email: rx2246 [at] columbia [dot] edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
