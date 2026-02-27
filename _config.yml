@@ -16,7 +16,7 @@
 title: Ruize Xu
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Ruize Xu, MSCS at Columbia University. Robustness & Interpretability. Looking for Ph.D positions in 2025 Fall.
+  Ruize Xu, CS Ph.D at Dartmouth College.
 twitter_username: Ruize Xu
 github_username: Rick-Xu315
 minimal_mistakes_skin: default
@@ -59,10 +59,10 @@ author:
   name   : "Ruize Xu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : | 
-          Incoming CS PhD @Dartmouth College 
+          CS PhD @Dartmouth College 
 
           
-          Email: rx2246 [at] columbia [dot] edu
+          Email: ruize.xu.gr [at] Dartmouth [dot] edu
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
